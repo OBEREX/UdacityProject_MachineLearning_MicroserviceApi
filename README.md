@@ -1,4 +1,4 @@
-[![oberex](https://circleci.com/gh/oberex/<UdacityProject_MachineLearning_MicroserviceApi>.svg?style=svg)](https://app.circleci.com/pipelines/github/OBEREX/UdacityProject_MachineLearning_MicroserviceApi/9/workflows/8600360e-1d01-4f2b-a074-6854705ef094)
+[![oberex](https://circleci.com/gh/oberex/<UdacityProject_MachineLearning_MicroserviceApi>.svg?style=svg)](https://app.circleci.com/pipelines/github/OBEREX/UdacityProject_MachineLearning_MicroserviceApi)
 
 ## Project Overview
 
