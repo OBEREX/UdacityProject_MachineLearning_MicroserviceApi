@@ -1,4 +1,4 @@
-[![oberex](https://circleci.com/gh/oberex/UdacityProject_MachineLearning_MicroserviceApi.svg?style=svg)](https://app.circleci.com/pipelines/github/oberex/UdacityProject_MachineLearning_MicroserviceApi)
+[![oberex](https://circleci.com/gh/oberex/UdacityProject_MachineLearning_MicroserviceApi/master.svg?style=svg&circle-token=0e5219e1b161466444f16f676481b9d43406c018)](https://app.circleci.com/pipelines/github/oberex/UdacityProject_MachineLearning_MicroserviceApi)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
